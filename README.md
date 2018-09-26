@@ -14,7 +14,7 @@ No CAPTCHA reCAPTCHA
 ## Installation
 
 ```
-composer require anhskohbo/no-captcha
+composer require googleshokry/no-captcha
 ```
 
 ## Laravel 5
