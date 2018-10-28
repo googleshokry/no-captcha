@@ -1,12 +1,12 @@
 {
-    "name": "anhskohbo/no-captcha",
+    "name": "googleshokry/no-captcha",
     "description": "No CAPTCHA reCAPTCHA For Laravel.",
     "keywords": ["recaptcha", "no-captcha", "captcha", "laravel", "laravel4", "laravel5"],
     "license": "MIT",
     "authors": [
         {
-            "name": "anhskohbo",
-            "email": "anhskohbo@gmail.com"
+            "name": "googleshokry",
+            "email": "sms.shokry.mohamed@gmail.com"
         }
     ],
     "require": {
@@ -25,10 +25,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Anhskohbo\\NoCaptcha\\NoCaptchaServiceProvider"
+                "Googleshokry\\NoCaptcha\\NoCaptchaServiceProvider"
             ],
             "aliases": {
-                "NoCaptcha": "Anhskohbo\\NoCaptcha\\Facades\\NoCaptcha"
+                "NoCaptcha": "Googleshokry\\NoCaptcha\\Facades\\NoCaptcha"
             }
         }
     }

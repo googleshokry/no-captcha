@@ -28,13 +28,13 @@ In `app/config/app.php` add the following :
 1- The ServiceProvider to the providers array :
 
 ```php
-Anhskohbo\NoCaptcha\NoCaptchaServiceProvider::class,
+Googleshokry\NoCaptcha\NoCaptchaServiceProvider::class,
 ```
 
 2- The class alias to the aliases array :
 
 ```php
-'NoCaptcha' => Anhskohbo\NoCaptcha\Facades\NoCaptcha::class,
+'NoCaptcha' => Googleshokry\NoCaptcha\Facades\NoCaptcha::class,
 ```
 
 3- Publish the config file

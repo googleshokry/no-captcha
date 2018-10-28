@@ -1,6 +1,6 @@
 <?php
 
-use Anhskohbo\NoCaptcha\NoCaptcha;
+use Googleshokry\NoCaptcha\NoCaptcha;
 
 class NoCaptchaTest extends PHPUnit_Framework_TestCase
 {
